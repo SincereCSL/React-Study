@@ -1,4 +1,7 @@
 # React-Study
+## React 学习资料
+- [Visual testing for React components using open source tools](https://glebbahmutov.com/blog/open-source-visual-testing-of-components)
+- [Gleb Bahmutov VP of Engineering](https://slides.com/bahmutov/visual-testing)
 ## React 资料（2023）
 ### Main APIs(主要API)
 - [createContext](https://react.dev/reference/react/createContext)
