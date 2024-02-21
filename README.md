@@ -2,6 +2,20 @@
 ## React 学习资料
 - [Visual testing for React components using open source tools](https://glebbahmutov.com/blog/open-source-visual-testing-of-components)
 - [Gleb Bahmutov VP of Engineering](https://slides.com/bahmutov/visual-testing)
+## 2024年 React 发展趋势
+- 原文链接：[React Trends in 2024](https://www.robinwieruch.de/react-trends)
+- 参考链接：[译：2024 年 React 趋势](https://sorrycc.com/react-trend-2024)
+#### 文章相关总结点：
+* 1、astro + astro starlight 用于文档
+* 2、supabase、clerk、lucia 用于身份验证
+* 3、tRPC + Prisma 用于全栈应用
+* 4、RSC 只有 Next.js 和 Waku，性能上有优势但不多
+* 5、TanStack Router 是类型安全的路由库
+* 6、打包工具看 TurboPack 和 Vite
+* 7、React Compiler 让我们告别 memo、useCallback 和 useMemo
+* 8、Biome 和 oxc 值得期待
+* 9、shadcn/UI 流行
+* 10、StyleX 编译时 CSS-in-JS 方案，解 SSR 性能问题
 ## React 生态系统
 
 - [2023 React生态系统](https://risingstars.js.org/2023/en#section-react)
