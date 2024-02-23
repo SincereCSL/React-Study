@@ -1,4 +1,8 @@
 # React-Study
+## React 官网相关
+- [React 官网](https://react.dev)
+- [React Team核心成员](https://react.dev/community/team)
+- [React Video](https://react.dev/community/videos)
 ## React 学习资料
 - [Visual testing for React components using open source tools](https://glebbahmutov.com/blog/open-source-visual-testing-of-components)
 - [Gleb Bahmutov VP of Engineering](https://slides.com/bahmutov/visual-testing)
