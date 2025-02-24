@@ -6,6 +6,9 @@
 ## React 学习资料
 - [Visual testing for React components using open source tools](https://glebbahmutov.com/blog/open-source-visual-testing-of-components)
 - [Gleb Bahmutov VP of Engineering](https://slides.com/bahmutov/visual-testing)
+- [React19新特性源码剖析](https://juejin.cn/post/7450836153258442788)
+- [React18新特性源码剖析](https://juejin.cn/post/7080854114141208612)
+- 
 ## 2024年 React 发展趋势
 - 原文链接：[React Trends in 2024](https://www.robinwieruch.de/react-trends)
 - 参考链接：[译：2024 年 React 趋势](https://sorrycc.com/react-trend-2024)
